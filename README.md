@@ -1,12 +1,12 @@
 # gemini-3-pro-image-preview API (nanobananapro) — 4K guide with per-unit pricing
 
 <p align="center">
-  <img src="hero.jpg" width="820" alt="gemini-3-pro-image-preview sample">
+  <img src="hero.jpg" width="820" alt="sample output">
 </p>
 
 > **4K at $0.04 per image** (default $0.03) — up to 14 reference images, flat per-image billing.
 
-**[Model page](https://apimart.ai/model/gemini-3-pro-image-preview)** · **[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Model page](https://go.apimart.ai/k-3f69b0)** · **[Live pricing](https://go.apimart.ai/k-a4a783)** · **[Get an API key](https://go.apimart.ai/k-746900)**
 
 Everything on this page refers to **gemini-3-pro-image-preview** — also written **nanobananapro**, **gemini 3 pro image preview** or **gemini-3-pro-image-preview** — served through the OpenAI-compatible APIMart gateway at `https://api.apimart.ai/v1`.
 
