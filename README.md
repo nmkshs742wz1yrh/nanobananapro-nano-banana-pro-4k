@@ -1,7 +1,7 @@
 # gemini-3-pro-image-preview API (nanobananapro) — 4K guide with per-unit pricing
 
 <p align="center">
-  <img src="assets/hero.jpg" width="820" alt="gemini-3-pro-image-preview sample">
+  <img src="hero.jpg" width="820" alt="gemini-3-pro-image-preview sample">
 </p>
 
 > **4K at $0.04 per image** (default $0.03) — up to 14 reference images, flat per-image billing.
